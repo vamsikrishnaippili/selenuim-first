@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Exceptions Tests Suite" duration-ms="16195" started-at="2022-07-07T06:45:48Z" finished-at="2022-07-07T06:46:05Z">
+    <groups>
+    </groups>
+    <test name="Stale Element Test" duration-ms="16195" started-at="2022-07-07T06:45:48Z" finished-at="2022-07-07T06:46:05Z">
+      <class name="com.herokuapp.com.ExceptionsTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.com.ExceptionsTests@4566e5bd]" name="setUp" is-config="true" duration-ms="6292" started-at="2022-07-07T06:45:48Z" finished-at="2022-07-07T06:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="disableElementTest()[pri:0, instance:com.herokuapp.com.ExceptionsTests@4566e5bd]" name="disableElementTest" duration-ms="9171" started-at="2022-07-07T06:45:55Z" finished-at="2022-07-07T06:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disableElementTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.com.ExceptionsTests@4566e5bd]" name="tearDown" is-config="true" duration-ms="707" started-at="2022-07-07T06:46:04Z" finished-at="2022-07-07T06:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.com.ExceptionsTests -->
+    </test> <!-- Stale Element Test -->
+  </suite> <!-- Exceptions Tests Suite -->
+</testng-results>
